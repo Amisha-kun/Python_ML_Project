@@ -17,4 +17,4 @@ pillow
 streamlit
 inference
 filterpy
-distutils
+setuptools
