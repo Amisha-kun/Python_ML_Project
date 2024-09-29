@@ -5,12 +5,11 @@ Using both the `COCO Model` to detect the vehicles and the `License Plate Model`
 
 
 ## Instruction
-- Create a Virtual Environment and install the packages mentioned in the `required.txt` file
+- Create a Virtual Environment and install the packages mentioned in the `requirements.txt` file
 - ## USE COMMAND PROMPT : 
 - python -m venv myenv
 (here myenv is your virtual environment name )
-- pip install -r required.txt
-
+- pip install -r requirements.txt
 
 ## Run
 streamlit run app.py
