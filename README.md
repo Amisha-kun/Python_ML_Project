@@ -1,17 +1,15 @@
 # License Plate Recognition 🚗
 
 ## License Plate Detection and Extraction with YoloV8 and EasyOCR
-
 Using both the `COCO Model` to detect the vehicles and the `License Plate Model` to recognize the plate, and then with EasyOCR to extract the info from the cropped plate image.
 
 
 ## Instruction
 - Create a Virtual Environment and install the packages mentioned in the `required.txt` file
 - ## USE COMMAND PROMPT : 
-- 
-
-
-
+- python -m venv myenv
+(here myenv is your virtual environment name )
+- pip install -r required.txt
 
 
 ## Run
