@@ -18,3 +18,4 @@ streamlit
 inference
 filterpy
 setuptools
+streamlit-webrtc
