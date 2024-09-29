@@ -20,4 +20,4 @@ Test it by running the `app.py` file, built with `Streamlit`.
 ## Resources
 - Licenses Plates Dataset: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/41
 - <img src=".\imgs\interface.png" width="800"/>
-- <img src=".\interface2.png" width="800"/>
+- <img src=".\imgs\interface2.png" width="800"/>
