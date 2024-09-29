@@ -13,8 +13,8 @@ beautifulsoup4==4.12.3
 ultralytics==8.0.114
 Jinja2==3.1.4
 pillow==10.4.0
-streamlit
-inference
+streamlit==1.38.0
+inference==0.19.0
 filterpy==1.4.5
 scikit-image==0.17.2
 lap==0.4.0
