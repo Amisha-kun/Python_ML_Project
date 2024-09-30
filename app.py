@@ -166,8 +166,8 @@ def change_state_live() :
     st.session_state["state"] = "Live"
     
 with header :
-    _, col1, _ = st.columns([0.2,1,0.1])
-    col1.title("💥 License Car Plate Detection 🚗")
+    _, col1, _ = st.columns([0.03,1,0.1])
+    col1.title("Car License Plate Detection🚗")
 
     _, col0, _ = st.columns([0.15,1,0.1])
     col0.image("./imgs/test_background.jpg", width=500)
@@ -176,7 +176,7 @@ with header :
     _, col4, _ = st.columns([0.1,1,0.2])
     col4.subheader("Computer Vision Detection with YoloV8 🧪")
 
-    _, col, _ = st.columns([0.3,1,0.1])
+    _, col, _ = st.columns([0.6,1,0.1])
     col.image("./imgs/plate_test.jpg")
 
     _, col5, _ = st.columns([0.05,1,0.1])
@@ -264,8 +264,3 @@ with body :
 
                 _, col4, _ = st.columns([0.3,1,0.1])
                 col4.image(prediction)
-
-
-
-
- 
